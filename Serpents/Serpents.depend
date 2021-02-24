@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1614177827 source:c:\users\kevin\documents\c++\serpents\main.cpp
-	<iostream>
-	<conio.h>
-	<cstdlib>
-	<windows.h>
-
